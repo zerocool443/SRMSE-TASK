@@ -24,3 +24,4 @@ for logs in /var/log
  done
 
 rm -rf temp.txt
+rm -rf copy.txt
